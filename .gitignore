@@ -2,3 +2,11 @@ STM32-base
 STM32-base-STM32Cube
 bin
 obj
+pickleball.code-workspace
+.vscode/launch.json
+.vscode/openocd.cfg
+.vscode/stm32f0xx_github.svd
+.vscode/STM32F0x0.svd
+.vscode/STM32F0x1.svd
+.vscode/STM32F0x2.svd
+.vscode/STM32F0x8.svd
