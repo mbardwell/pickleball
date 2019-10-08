@@ -1,3 +1,4 @@
+# see STM32-base/startup/STM32F0xx/ for possible devices
 DEVICE = STM32F030x4
 FLASH  = 0x08000000
 
